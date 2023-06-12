@@ -1,1 +1,2 @@
-# sample jenkins github integration
+Jenkins Project:
+- Jenkins Github Sample Integration
